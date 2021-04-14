@@ -1,0 +1,4 @@
+unique_id,timestamp,tag,date,eval_test,model_version,model_version_note,runtime
+85c202fc-98a3-4f51-ab7f-93d6c547a08e,1618407441.6294131,united_kingdom,1600782826.2454798,{'rmse': 0.5},0.1,test model,00:00:01
+d4b212a3-aae3-4088-8bd8-da88dbf3eae0,1618407441.6294131,united_kingdom,1600782826.2454798,{'rmse': 0.5},0.1,test model,00:00:01
+b1df04d9-4ab5-4c77-ac97-bb1b7df9a4b6,1618407449.533928,all,"('2017-11-29', '2019-05-31')",{'rmse': 22368},0.1,supervised learing model for time-series,000:00:07

@@ -1,0 +1,4 @@
+unique_id,timestamp,country,y_pred,y_proba,target_date,model_version,runtime
+d69ef863-2e16-45f9-89d7-a6285ccabc36,1618407441.6359296,united_kingdom,[0],"[0.6, 0.4]",2018-01-05,0.1,00:00:02
+be43461b-f6a2-452f-bd33-74b5c2c98763,1618407441.6359296,united_kingdom,[0],"[0.6, 0.4]",2018-01-05,0.1,00:00:02
+46864b2b-eb55-4a49-b6d1-27f0c5a7df24,1618407454.0234582,all,[150313.27866667],None,2018-08-01,0.1,000:00:02
